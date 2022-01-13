@@ -1,5 +1,7 @@
 const numberOfFilms = +prompt("How many movies did you see?", "");
 
+function start() {}
+
 const personalMovieDB = {
   count: numberOfFilms,
   movies: {},
